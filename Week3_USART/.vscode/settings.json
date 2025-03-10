@@ -1,8 +1,0 @@
-{
-    "files.associations": {
-        "main.h": "c",
-        "std_types.h": "c",
-        "ecu_motor.h": "c",
-        "mcal_usart.h": "c"
-    }
-}
